@@ -1,4 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Mishari%20Al-Khalifa&fontAlign=50&fontAlignY=40&desc=Software%20Engineering%20%7C%20Cybersecurity%20%7C%20Content%20Creator&descAlign=50&descAlignY=62" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=240&text=Meshari%20Al-Khalifa&fontAlign=50&fontAlignY=38&desc=Cybersecurity%20%7C%20Software%20Engineering%20%7C%20Content%20Creator&descAlign=50&descAlignY=60" />
+
+<h2 align="center">مشاري الخليفة</h2>
+
+<p align="center">
+  <b>Software Engineering (Final Semester) · University of Hail</b><br/>
+  <b>هندسة برمجيات (آخر سمستر) · جامعة حائل</b>
+</p>
 
 <p align="center">
   <a href="https://github.com/engmesh1">
@@ -26,29 +33,30 @@
 
 ---
 
-## Profile
-**Software Engineering student (final semester) | University of Hail**  
-**Cybersecurity-focused developer | Content creator (YouTube / TikTok) | Live on Kick**
-
-I focus on building practical security-minded systems, with an emphasis on reliability, clarity, and measurable outcomes.
+### Profile | نبذة
+I build practical security-minded systems and create technical content with clear demos.  
+أبني أنظمة عملية واعية بالأمن، وأصنع محتوى تقني بتطبيقات واضحة.
 
 ---
 
-## Cybersecurity Focus
-- **SOC & SIEM fundamentals**: log collection, normalization, dashboards, alert logic
-- **Detection Engineering**: rule thinking, signal-to-noise, structured triage
-- **Incident Response**: investigation workflow, evidence handling basics, reporting
+### Focus | مجالات التركيز
+- **SOC & SIEM**: logging, dashboards, alert logic  
+  **SOC و SIEM**: سجلات، لوحات، منطق تنبيهات
+- **Detection Engineering**: triage, rule thinking, signal-to-noise  
+  **هندسة الكشف**: فرز، تفكير قواعد، تقليل الضجيج
+- **Incident Response**: investigation workflow, reporting basics  
+  **الاستجابة للحوادث**: منهجية تحقيق، أساسيات تقارير
 
 ---
 
-## Technical Stack (Core)
+### Core Stack | التقنيات الأساسية
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,linux,bash,git,github,docker" />
 </p>
 
 ---
 
-## GitHub Overview
+### GitHub Snapshot | ملخص قيت هوب
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=engmesh1&show_icons=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engmesh1&layout=compact" height="165" />
@@ -56,15 +64,19 @@ I focus on building practical security-minded systems, with an emphasis on relia
 
 ---
 
-## Latest YouTube Videos
+### Latest YouTube Videos | أحدث فيديوهات اليوتيوب
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-More: https://www.youtube.com/@sqrx01/featured
+<p align="center">
+  <a href="https://www.youtube.com/@sqrx01/featured">
+    <img src="https://img.shields.io/badge/Watch%20on%20YouTube-@sqrx01-DC2626?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Contact & Links
+### Links | الروابط
 - GitHub: https://github.com/engmesh1  
 - YouTube: https://www.youtube.com/@sqrx01/featured  
 - Kick: https://kick.com/sqrx01  
