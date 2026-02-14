@@ -1,78 +1,72 @@
-# Hi, I'm Mishari Al-Khalifa (مشاري الخليفة) 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mishari%20Al-Khalifa&fontAlign=50&fontAlignY=35&desc=Cybersecurity%20%7C%20Software%20Engineering%20%7C%20Content%20Creator&descAlign=50&descAlignY=55" />
 
-**Software Engineer (Student) | Cybersecurity Specialist | YouTube Creator | Kick Streamer**  
-Last-semester Software Engineering student at **University of Hail**.
+<p align="center">
+  <a href="https://github.com/engmesh1">
+    <img src="https://img.shields.io/badge/GitHub-engmesh1-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.youtube.com/@sqrx01/featured">
+    <img src="https://img.shields.io/badge/YouTube-@sqrx01-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://kick.com/sqrx01">
+    <img src="https://img.shields.io/badge/Kick-sqrx01-53FC18?style=for-the-badge" />
+  </a>
+</p>
 
-> I build practical projects, focus on defensive security, and create content that connects theory to real implementation.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=engmesh1&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/engmesh1?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/engmesh1?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github" />
+</p>
 
----
+## 👋 About Me
+**Software Engineering student (last semester) | University of Hail**  
+**Cybersecurity-focused developer + content creator (YouTube) + streamer (Kick)**
 
-## Links
-- GitHub: https://github.com/engmesh1
-- YouTube: https://www.youtube.com/@sqrx01/featured
-- Kick: https://kick.com/sqrx01
-
----
-
-## About Me
 - 🛡️ Focus: **Blue Team**, **SOC/SIEM**, **Detection Engineering**, **Incident Response**
-- 🧰 I like building: log tooling, dashboards, detection rules, and automation utilities
-- 🎥 Content: cybersecurity + software engineering projects with real demos
+- 🧰 I build: dashboards, log tooling, detection rules, automation
+- 🎥 Content: practical security + software engineering projects
 
 ---
 
-## What I'm Working On (Soon)
-- Security-focused projects with clear documentation and reproducible setups
+## 🧰 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,linux,bash,docker,git,githubactions,postgres,mongodb" />
+</p>
+
+---
+
+## 🚧 What I'm Working On
+- Shipping standout security projects with clean docs + demos
 - Automation for detection & response workflows
-- A portfolio of “showable” repos (clean README, screenshots, and demos)
+- Building a portfolio of high-signal repos
 
 ---
 
-## Featured Projects
-> (I’m building new projects right now. This section will be updated soon.)
-- **Project 1 (Soon)**  
-  Short value statement (what problem it solves + for whom).  
-  Repo: https://github.com/engmesh1/REPO_NAME
-
-- **Project 2 (Soon)**  
-  Short value statement.  
-  Repo: https://github.com/engmesh1/REPO_NAME
-
-- **Project 3 (Soon)**  
-  Short value statement.  
-  Repo: https://github.com/engmesh1/REPO_NAME
+## ⭐ Featured Projects
+> Coming soon. (I’m actively building and will update this section.)
+- **Project 1 (Soon)** → https://github.com/engmesh1/REPO_NAME  
+- **Project 2 (Soon)** → https://github.com/engmesh1/REPO_NAME  
+- **Project 3 (Soon)** → https://github.com/engmesh1/REPO_NAME  
 
 ---
 
-## Tech Stack
-**Security:** SIEM/Logging, detection rules (Sigma/YARA), incident response basics  
-**Development:** Python, JavaScript/TypeScript, Git, Docker, GitHub Actions  
-*(I’ll keep this updated as projects ship.)*
-
----
-
-## Latest YouTube Videos (Auto)
+## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-More on YouTube: https://www.youtube.com/@sqrx01/featured
+➡️ More: https://www.youtube.com/@sqrx01/featured
 
 ---
 
-## GitHub Stats
-<img
-  src="https://github-readme-stats.vercel.app/api?username=engmesh1&show_icons=true"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=engmesh1&layout=compact"
-  alt="Top Languages"
-/>
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=engmesh1&show_icons=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engmesh1&layout=compact" height="165" />
+</p>
 
 ---
 
-## Contact / Collab
-- YouTube: https://www.youtube.com/@sqrx01/featured
-- Kick: https://kick.com/sqrx01
+## 🤝 Connect
+- YouTube: https://www.youtube.com/@sqrx01/featured  
+- Kick: https://kick.com/sqrx01  
 - GitHub: https://github.com/engmesh1
